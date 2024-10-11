@@ -9,3 +9,20 @@ Visita mi Pen en CodePen: [Pagina Pelicula](https://codepen.io/EduardoGV117/pen/
 ![Descripción de la imagen](Captura1pagpelicula.png)
 
 ![Descripción de la imagen](Captura2pagpelicula.png)
+
+##### Vista responsiva de la pagina
+![Descripción de la imagen](Captura3pagpelicula.png)
+
+## Pagina Web Actor
+### En esta pagina se usa una estructura basica de visualizacion de informacion biografica de un actor, utilizando herramientas como los flexbox, tambien para que la pagina sea responsiva. Entre la informacion del actor viene foto, nombre completo, lugar de nacimiento, filmografias, tambien otros detallitos de su carrera como actor como los premios que ha ganado.
+
+Visita mi Pen en CodePen: [Pagina Actor]([https://codepen.io/EduardoGV117/pen/Vwombjy](https://codepen.io/EduardoGV117/pen/GRVrjaM))
+
+### Vista de Pagina de Actor 
+![Descripción de la imagen](Captura1pagactor.png)
+![Descripción de la imagen](Captura2pagactor.png)
+![Descripción de la imagen](Captura3pagactor.png)
+
+##### Vista Responsiva de la pagina
+![Descripción de la imagen](Captura4pagactor.png)
+
